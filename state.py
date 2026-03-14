@@ -1,0 +1,23 @@
+state = {
+    "resume_text": None,
+    "jd_text" : None,
+    "company_name" : None,
+    "role_title" : None,
+    "jd_requirements" : None,
+    "tech_stack" : None, 
+    "job_responsibilities" : None,
+    "experience_level" : None,
+    "company_info": None,
+    "company_tech_stack": None,
+    "role_expectations": None,
+    "company_focus": None,
+    "resume_skills" : None,
+    "matching_skills" : None,
+    "missing_skills" : None,
+    "gap_analysis" : None,
+    "tailored_resume":None,
+    "cover_letter" : None,
+    "fit_score" : None,
+    "alignment_summary" :None ,
+    "feedback" : None
+}
