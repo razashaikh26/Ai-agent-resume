@@ -1,0 +1,23 @@
+# API
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+
+# AWS Bedrock
+boto3==1.28.64
+
+# Web search
+tavily-python==0.7.23
+
+# Document loaders
+langchain-community==0.4.1
+pypdf==6.2.0
+docx2txt==0.9
+beautifulsoup4
+
+# Embeddings & similarity
+sentence-transformers==4.0.1
+scikit-learn==1.7.1
+
+# Utilities
+python-dotenv==1.0.0
